@@ -17,9 +17,13 @@ End the program
 import numpy as np
 A = np.array([[1, -3],
               [3,  1]])
+              
 B = np.array([0, 10])
+
 x = np.linalg.solve(A, B)
+
 print(x)
+
 ## Output:
 <img width="807" height="312" alt="image" src="https://github.com/user-attachments/assets/7834df02-f715-41c7-b99b-46c7ffedf29d" />
 
