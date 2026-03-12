@@ -14,6 +14,9 @@ Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
 ## Program:
+~~~ python
+name:sudhaya
+ref no:212225230287
 import numpy as np
 
 A = np.array([[1, -3],
